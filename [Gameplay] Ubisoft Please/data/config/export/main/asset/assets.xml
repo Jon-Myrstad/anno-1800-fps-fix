@@ -1,0 +1,141 @@
+<ModOps>
+	<ModOp Type="replace" GUID='2001034' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001202' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001204' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001205' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001036' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001206' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001037' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001207' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001035' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001208' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001777' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001778' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001210' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001211' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='501558' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001196' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001195' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001197' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001298' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001299' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001384' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001385' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001868' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001866' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001879' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001867' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001880' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001865' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001881' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='25000237' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001190' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='25000236' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='501591' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='2001383' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+
+	<ModOp Type="replace" GUID='501629' Path="/Values/MouseCursor/ImageFilename">
+		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
+	</ModOp>
+</ModOps>
