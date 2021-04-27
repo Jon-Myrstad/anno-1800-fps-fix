@@ -59,9 +59,9 @@
 		<ImageFilename>data/graphics/ui/cursors/cursor_ship_active.png</ImageFilename>
 	</ModOp>
 
-	<ModOp Type="replace" GUID='2001196' Path="/Values/MouseCursor/ImageFilename">
-		<ImageFilename>data/graphics/ui/cursors/cursor_standard.png</ImageFilename>
-	</ModOp>
+ 	<ModOp Type="replace" GUID='2001196' Path="/Values/MouseCursor/ImageFilename">
+        	<ImageFilename>data/graphics/ui/cursors/camera_rotate.png</ImageFilename>
+    	</ModOp>
 
 	<ModOp Type="replace" GUID='2001195' Path="/Values/MouseCursor/ImageFilename">
 		<ImageFilename>data/graphics/ui/cursors/camera_pan.png</ImageFilename>
@@ -138,4 +138,12 @@
 	<ModOp Type="replace" GUID='501629' Path="/Values/MouseCursor/ImageFilename">
 		<ImageFilename>data/graphics/ui/cursors/guard.png</ImageFilename>
 	</ModOp>
+	
+    	<ModOp Type="replace" GUID='502195' Path="/Values/MouseCursor/ImageFilename">
+        	<ImageFilename>data/graphics/ui/cursors/downgrade.png</ImageFilename>
+   	</ModOp>
+    
+    	<ModOp Type="replace" GUID='502196' Path="/Values/MouseCursor/ImageFilename">
+        	<ImageFilename>data/graphics/ui/cursors/action_impossible.png</ImageFilename>
+    	</ModOp>
 </ModOps>
